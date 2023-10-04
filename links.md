@@ -25,5 +25,15 @@ Another video about file systems. Good if want to know more.
 3. [File Allocation Table](https://youtu.be/V2Gxqv3bJCk?si=SxHfnO51KPcWNNTe) ---
 Another video about file allocation table. Great supplement to course material.
 
+## Week 4
+
+1. [Introduction to Pointers in C](https://youtu.be/f2i0CnUOniA?si=IXnxFUDvePxrWfBO) --- Video about pointers in C. Good supplement to course material.
+
+2. [Declaring & Initializing Pointers in C](https://youtu.be/b3G9RjG4l2s?si=yI2g66jljAPajz2u) --- Another video about pointers in C. Good video to watch after first video.
+
+3. [Paging](https://youtu.be/pJ5ezHfJokw?si=-Yw478lfstB2SPG9) --- Video about paging. Short video about material covered in lecture.
+
+4. [Paging (OS)](https://youtu.be/LKYKp_ZzlvM?si=p_OWHUWAKDO8hjzl) --- Another video about pagging. Longer video than previous one.
+
 <br>
 <hr>
