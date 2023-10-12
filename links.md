@@ -35,5 +35,13 @@ Another video about file allocation table. Great supplement to course material.
 
 4. [Paging (OS)](https://youtu.be/LKYKp_ZzlvM?si=p_OWHUWAKDO8hjzl) --- Another video about pagging. Longer video than previous one.
 
+## Week 5
+
+1. [Page Faults](https://youtu.be/RrZ8-1w7iok?si=gTJRq9qlt-DVtdPU) --- Video about page faults. Good concept in this video.
+
+2. [Virtual Memory](https://youtu.be/8yO2FBBfaB0?si=lRASGRxa5zlQl6sY) --- Video about virtual memory from same source as first video. Good concept too in this video.
+
+3. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=hil6sbXD313Eub3Q) --- Another video about virtual memory. Good concept in this video.
+
 <br>
 <hr>
