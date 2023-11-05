@@ -43,5 +43,13 @@ Another video about file allocation table. Great supplement to course material.
 
 3. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=hil6sbXD313Eub3Q) --- Another video about virtual memory. Good concept in this video.
 
+## Week 6
+
+1. [What is a Process in an Operating System?](https://youtu.be/vLwMl9qK4T8?si=s0LyP1l96Vj4iTst) --- Explain what is process in OS. Great short video.
+
+2. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=AxMrFiFyVD2ekmtH) --- Explain process and threads. Another short video.
+
+3. [Difference between processes and threads](https://youtu.be/IKG1P4rgm54?si=mbzm7T2SHVHuyjif) --- Explain difference between process and threads. Short video and explained using C program.
+
 <br>
 <hr>
