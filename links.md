@@ -51,5 +51,11 @@ Another video about file allocation table. Great supplement to course material.
 
 3. [Difference between processes and threads](https://youtu.be/IKG1P4rgm54?si=mbzm7T2SHVHuyjif) --- Explain difference between process and threads. Short video and explained using C program.
 
+## Week 7
+
+1. [Process Synchronization](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- Great playlist about process synchronization. Good video in explaining synchronization.
+
+2. [Process Synchronisation - Operating Systems](https://youtu.be/eKKc0d7kzww?si=mkmJ8DMJ0VTS2m81) --- Short video under 5 minutes. Good video.
+
 <br>
 <hr>
