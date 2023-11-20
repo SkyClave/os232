@@ -59,7 +59,7 @@ Another video about file allocation table. Great supplement to course material.
 
 ## Week 8
 
-1. [CPU Scheduling | Chapter-5 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) --- Great playlist about CPU Scheduling. This playlist explain many scheduling algorithm.
+1. [CPU Scheduling  Chapter-5  Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) --- Great playlist about CPU Scheduling. This playlist explain many scheduling algorithm.
 
 2. [CPU Scheduling Algorithms - Operating Systems](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE) --- Another good playlist. Explain scheduling algorithm in shorter video.
 
