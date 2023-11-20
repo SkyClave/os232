@@ -57,5 +57,13 @@ Another video about file allocation table. Great supplement to course material.
 
 2. [Process Synchronisation - Operating Systems](https://youtu.be/eKKc0d7kzww?si=mkmJ8DMJ0VTS2m81) --- Short video under 5 minutes. Good video.
 
+## Week 8
+
+1. [CPU Scheduling | Chapter-5 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) --- Great playlist about CPU Scheduling. This playlist explain many scheduling algorithm.
+
+2. [CPU Scheduling Algorithms - Operating Systems](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE) --- Another good playlist. Explain scheduling algorithm in shorter video.
+
+3. [Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/uggsnHSELos?si=Nj5U2cSLGG8cC0BY) --- Video about chapter 5 of LFS by Kernotex. Good video to learn how to do chapter 5 of LFS.
+
 <br>
 <hr>
