@@ -65,5 +65,9 @@ Another video about file allocation table. Great supplement to course material.
 
 3. [Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/uggsnHSELos?si=Nj5U2cSLGG8cC0BY) --- Video about chapter 5 of LFS by Kernotex. Good video to learn how to do chapter 5 of LFS.
 
+## Week 9
+
+1. [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Great playlist about operating system. Explain many topics.
+
 <br>
 <hr>
