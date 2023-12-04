@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description LisZCZC W01 15 L00 General, etc.
+ZCZC W10 25 L00 General, etc.
+ZCZC W10 15 L01 SCELE/Discord related
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L03 Github and git related, including commit, push, pull
+ZCZC W10 30 L05 Quiz related including studying
+ZCZC W10 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 15 L07 Demo related
+ZCZC W10 180 L09 Weekly Assignment
+ZCZC W10 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W09 15 L00 General, etc.
 ZCZC W09 10 L01 SCELE/Discord related
 ZCZC W09 150 L02 CLASSROOM/ZOOM meetings related

@@ -69,5 +69,9 @@ Another video about file allocation table. Great supplement to course material.
 
 1. [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Great playlist about operating system. Explain many topics.
 
+## Week 10
+
+1. [LFS Kernotex Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- Playlist guide to LFS. Very helpful.
+
 <br>
 <hr>
